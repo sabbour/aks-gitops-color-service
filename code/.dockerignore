@@ -1,0 +1,6 @@
+.git
+Dockerfile
+chart/
+NOTICE
+node_modules
+npm-debug.log
